@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @henrzven
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Ruby On Rails
+- 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me weritovenezuela@gmail.com
 
