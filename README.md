@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m @henrzven
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web3
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me weritovenezuela@gmail.com
+- 📫 How to reach me djaimeshenriquez@gmail.com
 
 <!---
 henrzven/henrzven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
