@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me djaimeshenriquez@gmail.com
-- 
+  
 ![](https://komarev.com/ghpvc/?username=henrzven)
 <!---
 henrzven/henrzven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
