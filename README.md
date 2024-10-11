@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @henrzven
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DevRel, OpenSource, Building communities.
 - 📫 How to reach me djaimeshenriquez@gmail.com
   
 ![](https://komarev.com/ghpvc/?username=henrzven)
